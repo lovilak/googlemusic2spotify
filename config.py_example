@@ -1,0 +1,8 @@
+
+SPOTIPY_CLIENT_ID = 'XX'
+SPOTIPY_CLIENT_SECRET = 'XXX'
+SPOTIPY_REDIRECT_URI = 'http://localhost:8081'
+SPOTIFY_USER = 'XX'
+GOOGLE_DIR = './google_playlist/'
+SPOTIFY_LOG = './logs/spotify.log'
+APIKEY_FILE = './apikey.json'
